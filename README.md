@@ -43,6 +43,9 @@ Mi objetivo es **compartir conocimiento de alto nivel** y liderar proyectos que 
 | **Redes Avanzadas** | Arquitecturas SDN/NFV, automatización de redes, monitoreo en tiempo real |
 | **Mentoría y Transferencia de Conocimiento** | Formación de ingenieros, publicación de guías técnicas y talleres especializados |
 | **Broadcasting para Radio y Televisión Digital** | Diseño, implementación y optimización de sistemas de transmisión digital para radio y TV, incluyendo estándares como DVB-T/T2, ISDB-T y streaming sobre IP |
+| **Legislación y Regulación en Telecomunicaciones** | Análisis y aplicación de normativas nacionales e internacionales, gestión de licencias y cumplimiento regulatorio en proyectos de telecomunicaciones |
+| **Ingeniería de Sonido y Video Digital** | Desarrollo, procesamiento y optimización de audio y video digital, incluyendo codificación, compresión, transmisión y postproducción profesional |
+
 
 
 ---
