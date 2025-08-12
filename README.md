@@ -60,7 +60,7 @@ Mi objetivo es **compartir conocimiento de alto nivel** y liderar proyectos que 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis130798&show_icons=true&theme=react&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=Luis130798&theme=react&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis130798&layout=compact&theme=react&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
