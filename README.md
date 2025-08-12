@@ -1,6 +1,6 @@
 <!-- Holographic Cover -->
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px)%20(1024%20x%20256%20px)%20(1).gif?alt=media&token=cc859921-83c7-44c8-a823-b2215c224098" width="100%" alt="Holographic Futuristic Banner"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2Fhola.gif?alt=media&token=63d9c213-8461-4f53-ab2c-478c5914544f" width="100%" alt="Holographic Futuristic Banner"/>
 </p>
 
 <!-- Title -->
