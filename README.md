@@ -1,11 +1,11 @@
-<!-- Cover -->
+<!-- Futuristic Cover -->
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px)%20(1024%20x%20256%20px)%20(1).gif?alt=media&token=cc859921-83c7-44c8-a823-b2215c224098" width="100%">
+  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px)%20(1024%20x%20256%20px)%20(1).gif?alt=media&token=cc859921-83c7-44c8-a823-b2215c224098" width="100%" alt="Futuristic Banner"/>
 </p>
 
-<!-- Header -->
+<!-- Name & Title -->
 <h1 align="center">
-  Ing. José Luis Apaza Quispe  
+  <span style="color:#00fff7;">Ing. José Luis Apaza Quispe</span>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="22px"/>
 </h1>
 
@@ -14,58 +14,64 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luis130798&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Arequipa%2C%20Peru-blue?style=flat&logo=google-maps" alt="location" />
+  <img src="https://komarev.com/ghpvc/?username=Luis130798&label=Profile%20views&color=00fff7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Arequipa%2C%20Peru-00fff7?style=flat-square&logo=google-maps" alt="Location" />
+  <img src="https://img.shields.io/badge/Followers-2-00fff7?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Following-2-00fff7?style=flat-square&logo=github" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🛰 About Me
 
-👋 Hola, soy **José Luis Apaza Quispe**, ingeniero en **Telecomunicaciones** apasionado por el diseño y la innovación en sistemas de comunicación.  
-Formo parte de **JL TechSystems Lab**, donde combino **RF, satélites, radar, redes 5G/6G, IoT y ciberseguridad** para desarrollar soluciones de alto impacto.  
+Hola 👋 soy **José Luis Apaza Quispe**, ingeniero en **Telecomunicaciones** enfocado en desarrollar soluciones avanzadas en comunicaciones **RF, satelitales, radar y redes 5G/6G**.  
+Lidero proyectos en **JL TechSystems Lab** que integran **IoT, inteligencia artificial, seguridad informática y automatización** para transformar la forma en que nos conectamos.  
 
-Mi enfoque está en **arquitectura de redes, sistemas embebidos y automatización**, cuidando siempre la **eficiencia, seguridad y escalabilidad**.  
-
-> *"La conectividad no es el futuro, es el presente que nos conecta con todo lo que viene."*
+> *"No construyo redes, construyo el futuro de la comunicación."*
 
 ---
 
-## 🛠 Skills & Technologies
-
-- **Telecom & Networking**: RF, Satcom, Radar, 4G/5G/6G, OSPF, BGP, VLAN, MPLS
-- **Hardware & Embedded**: PCB Design, Microcontrollers (ESP32, STM32, Arduino)
-- **IoT & Automation**: MQTT, CoAP, Node-RED, AI-based sensing
-- **Cybersecurity**: Firewalls, ACLs, VPNs, Network Hardening
-- **Software & Tools**: Python (Automation), MATLAB, Wireshark, GNS3, SDR (GNU Radio, HackRF)
-- **Certifications**: CCNA/CCNP, RF Systems, Satellite Comms
-
----
-
-## 📊 Stats & Activity
+## 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis130798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis130798&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis130798&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis130798&layout=compact&theme=radical&hide_border=true" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Luis130798&theme=neon-dark&hide_border=true" alt="GitHub Streak" height="170px"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 📡 Áreas de especialidad
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Telecom & Networking** | RF, Satcom, Radar, 4G/5G/6G, OSPF, BGP, VLAN, MPLS |
+| **Hardware & Embedded** | PCB Design, ESP32, STM32, Arduino, Raspberry Pi |
+| **IoT & Automation** | MQTT, CoAP, Node-RED, LoRaWAN |
+| **Cybersecurity** | Firewalls, ACLs, VPNs, Network Hardening |
+| **Herramientas** | Python (Automatización), MATLAB, Wireshark, GNS3, SDR |
+
+---
+
+## 🌐 Contacto interactivo
 
 <p align="center">
   <a href="https://linkedin.com/in/usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00fff7?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://t.me/usuario">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-00fff7?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
 </p>
 
-<!-- Footer -->
+---
+
 <p align="center">
-  <img src="https://i.imgur.com/9J4Y9kO.gif" width="100%">
+  <img src="https://i.imgur.com/G7X6I4g.gif" width="100%" alt="Tech Footer"/>
 </p>
