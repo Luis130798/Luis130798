@@ -1,88 +1,117 @@
-<!-- Holographic Cover -->
+<!-- ==========================
+     README - Ing. José Luis Apaza Quispe
+     Estilo: Corporativo / Futurista / Serio
+     ========================== -->
+
+<!-- Header: SVG logo + Title -->
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px)%20(1024%20x%20256%20px)%20(1).gif?alt=media&token=cc859921-83c7-44c8-a823-b2215c224098" width="100%" alt="Holographic Futuristic Banner"/>
+  <!-- Inline SVG: sobrio, animado (ondas RF) -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0" stop-color="#0ff" stop-opacity="0.95"/>
+        <stop offset="1" stop-color="#00a" stop-opacity="0.95"/>
+      </linearGradient>
+      <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="6" result="b"/>
+        <feBlend in="SourceGraphic" in2="b"/>
+      </filter>
+    </defs>
+
+    <!-- background -->
+    <rect width="820" height="160" rx="12" fill="#071019"/>
+
+    <!-- logo: antenna + waves -->
+    <g transform="translate(32,24)">
+      <g transform="scale(1)">
+        <rect x="0" y="0" width="112" height="112" rx="12" fill="#06121a"/>
+        <path d="M56 24 L64 48 L48 48 Z" fill="#00ffd0" opacity="0.95"/>
+        <rect x="52" y="48" width="8" height="36" rx="2" fill="#00ffd0"/>
+        <!-- concentric waves animated (SMIL) -->
+        <g fill="none" stroke="url(#g1)" stroke-width="1.6" stroke-opacity="0.9">
+          <circle cx="56" cy="44" r="20">
+            <animate attributeName="r" values="20;34;20" dur="3.6s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values="0.35;0.85;0.35" dur="3.6s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="56" cy="44" r="36" stroke-width="1.1">
+            <animate attributeName="r" values="36;54;36" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+            <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+          </circle>
+        </g>
+      </g>
+    </g>
+
+    <!-- Text: name + role -->
+    <g transform="translate(168,36)" fill="#dffcff" font-family="Segoe UI, Roboto, Arial" >
+      <text x="0" y="20" font-size="24" font-weight="700">Ing. José Luis Apaza Quispe</text>
+      <text x="0" y="48" font-size="13" fill="#9bd6d1">Telecommunications Engineer · RF · Satcom · Radar · 5G/6G</text>
+      <text x="0" y="68" font-size="12" fill="#9bd6d1">PCB & Embedded · AI · IoT · Automation · Cybersecurity · Network Architecture</text>
+    </g>
+
+    <!-- subtle accent line -->
+    <rect x="160" y="104" width="620" height="2" rx="1" fill="url(#g1)" opacity="0.85" filter="url(#f1)"/>
+  </svg>
 </p>
 
-<!-- Title -->
-<h1 align="center">
-  🚀 Ing. José Luis Apaza Quispe  
-  <span style="color:#00fff7;">Telecommunications Visionary</span>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="22px"/>
-</h1>
-
+<!-- Quick facts (badges) -->
 <p align="center">
-  📡 RF · Satcom · Radar · 5G/6G · IoT · AI · Cybersecurity · Network Architecture  
-  🔬 Innovator | 🧠 Mentor | 🛠 Solution Architect
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luis130798&label=Visitors&color=00fff7&style=flat-square" alt="Visitors"/>
-  <img src="https://img.shields.io/badge/Location-Arequipa%2C%20Peru-00fff7?style=flat-square&logo=google-maps" alt="Location"/>
-  <img src="https://img.shields.io/github/followers/Luis130798?label=Followers&style=flat-square&color=00fff7" alt="Followers"/>
-</p>
-
----
-
-## 🧠 Mi Misión
-
-> *"No solo conecto dispositivos, creo puentes que unen ideas, personas y futuros."*  
-
-Soy **Ingeniero en Telecomunicaciones** con una obsesión por **resolver problemas complejos** y **crear soluciones innovadoras** que transformen industrias.  
-Mi objetivo es **compartir conocimiento** y liderar proyectos que inspiren a la próxima generación de ingenieros.  
-
----
-
-## 🛰 Campos de Dominio
-
-| Área | Experiencia Clave |
-|------|-------------------|
-| **Telecom & RF** | Diseño y optimización de redes 4G/5G/6G, enlaces satelitales y sistemas radar |
-| **Ciberseguridad** | Segmentación de redes, VPN, análisis forense y hardening |
-| **IoT & AI** | Sensores inteligentes, automatización, análisis predictivo |
-| **Hardware** | Diseño de PCB, sistemas embebidos, integración RF-embedded |
-| **Mentoría** | Formación de ingenieros y transferencia de conocimiento |
-
----
-
-## 📊 Impacto y Resultados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis130798&show_icons=true&theme=react&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com?user=Luis130798&theme=react&hide_border=true" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luis130798&theme=tokyonight" width="90%"/>
-</p>
-
----
-
-## 💡 Filosofía de Innovación
-
-- 🔍 **Explorar**: Analizo problemas como un científico, buscando patrones ocultos.  
-- 🛠 **Crear**: Diseño soluciones que combinan hardware, software y telecom.  
-- 📤 **Compartir**: Creo contenido y guías para que otros aprendan y crezcan.  
-- 🌍 **Impactar**: Mis proyectos apuntan a mejorar la vida de las personas.  
-
----
-
-## 🌐 Conéctate conmigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-00fff7?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://t.me/usuario">
-    <img src="https://img.shields.io/badge/Telegram-00fff7?style=for-the-badge&logo=telegram&logoColor=black"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Luis130798&label=Visitantes&color=00ffd0&style=flat-square" alt="Visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ubicación-Arequipa%2C%20Peru-00a3ff?style=flat-square&logo=google-maps" alt="location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Followers-2-00ffd0?style=flat-square&logo=github" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Disponibilidad-Consultoría-00ffd0?style=flat-square" alt="availability" />
 </p>
 
 ---
 
-<!-- Tech Footer -->
+## Sobre mí \ (Resumen ejecutivo)
+Ingeniero de Telecomunicaciones con trayectoria en **RF, comunicaciones satelitales, sistemas radar y arquitecturas 5G/6G**. \  
+Líder en diseño de soluciones integradas que unen **hardware, software y seguridad**, orientadas a despliegues industriales y operativos a escala. \  
+Mi trabajo prioriza **robustez técnica, escalabilidad y transferencia de conocimiento**: publico guías, herramientas y repositorios que otros profesionales usan en producción. \
+
+---
+
+## Áreas de excelencia \ (alto impacto)
+
+- **Sistemas RF & Enlaces Satcom** — planificación, enlace enlace-budget, mitigación de interferencias y coexistencia.  
+- **Redes Móviles y RAN** — diseño RAN 4G/5G/6G, integración Core/RAN y testing de KPIs.  
+- **Radar & Sensores** — diseño de cadena RF, procesamiento de señal y análisis de detección.  
+- **PCB & Embebidos** — diseño RF-aware de PCB, filtros, adaptación de antenas y sistemas con STM32/ESP32.  
+- **IoT industrial & Automatización** — topologías resilientes, seguridad por diseño, gateways y orquestación.  
+- **Ciberseguridad operacional** — segmentación, IDS/IPS, VPNs y auditoría de infraestructura crítica.
+
+---
+
+## Métricas & Visuales (actuales)
 <p align="center">
-  <img src="https://i.imgur.com/dW8zC7Y.gif" width="100%" alt="Tech Footer Animation"/>
+  <!-- GitHub stats (oscuro, serio) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis130798&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="140" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis130798&layout=compact&theme=gruvbox&hide_border=true" height="140" alt="Top Languages" />
 </p>
+
+---
+
+## Diagrama técnico — Visión de una solución satelital 5G / IoT
+```mermaid
+flowchart TB
+  subgraph Edge
+    GW[Gateway IoT / Edge Compute]
+    SENS[Sensor Nodes]
+  end
+  subgraph Backhaul
+    Sat[Satcom Link]
+    NR[5G-NR gNodeB]
+  end
+  subgraph Core
+    UPF[User Plane Function]
+    SMF[Session Mgmt]
+    NMS[Network Mgmt & Security]
+  end
+
+  SENS -->|MQTT/TLS| GW -->|IPsec| Sat --> NR --> UPF --> NMS
+  NMS -->|Policy| SMF
+  style Sat fill:#0f3c4a,stroke:#00ffd0,stroke-width:1px
+  style NR fill:#102028,stroke:#00a3ff,stroke-width:1px
