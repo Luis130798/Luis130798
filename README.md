@@ -42,6 +42,8 @@ Mi objetivo es **compartir conocimiento de alto nivel** y liderar proyectos que 
 | **Hardware & Embedded** | Diseño PCB RF, integración de antenas, sistemas embebidos para telecom, prototipado rápido |
 | **Redes Avanzadas** | Arquitecturas SDN/NFV, automatización de redes, monitoreo en tiempo real |
 | **Mentoría y Transferencia de Conocimiento** | Formación de ingenieros, publicación de guías técnicas y talleres especializados |
+| Broadcasting para Radio y Televisión Digital | Diseño, implementación y optimización de sistemas de transmisión digital para radio y TV, incluyendo estándares como DVB-T/T2, ISDB-T y streaming sobre IP |
+
 
 ---
 
