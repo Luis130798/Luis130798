@@ -25,10 +25,10 @@
 
 ## 🧠 Mi Misión
 
-> *"No solo conecto dispositivos, creo puentes que unen ideas, personas y futuros."*  
+> *"No solo conecto dispositivos, creo puentes que unen ideas, personas y futuros."*
 
-Soy **Ingeniero en Telecomunicaciones** con una obsesión por **resolver problemas complejos** y **crear soluciones innovadoras** que transformen industrias.  
-Mi objetivo es **compartir conocimiento** y liderar proyectos que inspiren a la próxima generación de ingenieros.  
+Soy **Ingeniero en Telecomunicaciones** con pasión por **resolver problemas complejos** y **crear soluciones innovadoras** que transformen industrias críticas.  
+Mi objetivo es **compartir conocimiento de alto nivel** y liderar proyectos que inspiren y eleven el estándar de la ingeniería moderna.
 
 ---
 
@@ -36,11 +36,23 @@ Mi objetivo es **compartir conocimiento** y liderar proyectos que inspiren a la 
 
 | Área | Experiencia Clave |
 |------|-------------------|
-| **Telecom & RF** | Diseño y optimización de redes 4G/5G/6G, enlaces satelitales y sistemas radar |
-| **Ciberseguridad** | Segmentación de redes, VPN, análisis forense y hardening |
-| **IoT & AI** | Sensores inteligentes, automatización, análisis predictivo |
-| **Hardware** | Diseño de PCB, sistemas embebidos, integración RF-embedded |
-| **Mentoría** | Formación de ingenieros y transferencia de conocimiento |
+| **Telecom & RF** | Diseño, optimización y despliegue de redes 4G/5G/6G, enlaces satelitales, sistemas radar y microondas |
+| **Ciberseguridad** | Seguridad en infraestructuras críticas, segmentación de redes, VPN de alto rendimiento, análisis forense, hardening |
+| **IoT & AI** | Diseño de redes de sensores inteligentes, integración IoT-Cloud, análisis predictivo, Edge Computing |
+| **Hardware & Embedded** | Diseño PCB RF, integración de antenas, sistemas embebidos para telecom, prototipado rápido |
+| **Redes Avanzadas** | Arquitecturas SDN/NFV, automatización de redes, monitoreo en tiempo real |
+| **Mentoría y Transferencia de Conocimiento** | Formación de ingenieros, publicación de guías técnicas y talleres especializados |
+
+---
+
+## 📚 Áreas de Aprendizaje en Expansión
+
+- **Tecnologías Cuánticas en Telecom** – criptografía post-cuántica, canales cuánticos seguros.  
+- **6G y Comunicaciones Terahertz** – investigación y simulación de enlaces THz.  
+- **Sistemas de Comunicación Espacial** – constelaciones LEO/MEO y arquitecturas híbridas.  
+- **Inteligencia Artificial en Redes** – optimización autónoma de parámetros RAN/Core, detección proactiva de fallas.  
+- **Automatización de Ciberdefensa** – SOAR, respuesta automática a amenazas y honeypots avanzados.  
+- **Interoperabilidad Satcom–5G/6G** – despliegue de redes híbridas resilientes para entornos remotos.  
 
 ---
 
@@ -59,10 +71,10 @@ Mi objetivo es **compartir conocimiento** y liderar proyectos que inspiren a la 
 
 ## 💡 Filosofía de Innovación
 
-- 🔍 **Explorar**: Analizo problemas como un científico, buscando patrones ocultos.  
-- 🛠 **Crear**: Diseño soluciones que combinan hardware, software y telecom.  
-- 📤 **Compartir**: Creo contenido y guías para que otros aprendan y crezcan.  
-- 🌍 **Impactar**: Mis proyectos apuntan a mejorar la vida de las personas.  
+- 🔍 **Explorar**: Investigar más allá de los límites conocidos para anticipar tendencias tecnológicas.  
+- 🛠 **Crear**: Diseñar soluciones robustas que integren hardware, software y telecom de forma sinérgica.  
+- 📤 **Compartir**: Publicar guías, códigos y recursos abiertos para empoderar a la comunidad.  
+- 🌍 **Impactar**: Desarrollar proyectos que tengan un efecto positivo y medible en la sociedad.  
 
 ---
 
