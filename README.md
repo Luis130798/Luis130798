@@ -1,5 +1,5 @@
 <!--Cover -->
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+## <img src="file:///C:/Users/PC/Downloads/Sin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px).gif" width="25"> <b>About Me</b>
 
 <!--Header -->
 # Hi, i'm Bryan de Jesus <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻👋🏽 
