@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  🚀 Ing. José Luis Apaza Quispe  
+  Ing. José Luis Apaza Quispe  
   <span style="color:#00fff7;">Telecommunications Visionary</span>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="22px"/>
 </h1>
