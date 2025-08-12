@@ -31,7 +31,7 @@
 
 
 <!--about me -->
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px align="center"/></picture> <b>About Me</b>
+## <picture><img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px).gif?alt=media&token=d6347e22-8d11-466a-b4d8-7064a5890866" width = 40px align="center"/></picture> <b>About Me</b>
 
 👋 **Hola, soy [Bryan De Jesus](bryandejesusrt.dev)**  Tengo 21 años, crecí en **[Fantino, Provincia Sánchez Ramírez](https://maps.app.goo.gl/pYMiuNh6tJsBEuy58)**. 🏡 Pasé algunos años en Fantino donde culminé mis estudios técnicos. Luego, me trasladé a la capital de mi país, **Santo Domingo**, para realizar mis estudios universitarios en **Ingeniería de Software**  primero en el **Instituto Tecnológico de las Américas ([ITLA](itla.edu.do))** me gradue como tecnologo en software 🎓 y luego paso a formalizarme en **[UNAPEC](UNAPEC.edu.do)** como ingeniero. Actualmente, me encuentro estudiando de allí. 🐺  
 
