@@ -13,7 +13,7 @@
 
 <!--Banner -->
 
-![Banner de GitHub Bryan De Jesus Rosa Tavarez](https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px).gif?alt=media&token=d6347e22-8d11-466a-b4d8-7064a5890866)
+![Banner de GitHub Bryan De Jesus Rosa Tavarez](https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FSin%20t%C3%ADtulo%20(1584%20x%20396%20px)%20(1584%20x%20396%20px)%20(1024%20x%20256%20px).gif?alt=media&token=d4985028-fa42-4b0d-ac06-a550dbe71d2b)
 
  <!--Phrase -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
