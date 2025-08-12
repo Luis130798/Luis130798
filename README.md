@@ -101,5 +101,5 @@ Mi objetivo es **compartir conocimiento de alto nivel** y liderar proyectos que 
 
 <!-- Tech Footer -->
 <p align="center">
-  <img src="https://i.imgur.com/dW8zC7Y.gif" width="100%" alt="Tech Footer Animation"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/music13-eba0b.appspot.com/o/GIF%2FVintage%20Photo%20Collage%20Carousel%20Instagram%20Post.png?alt=media&token=5af4685a-10f3-4ca7-ae13-546a8e5b1651" width="100%" alt="Tech Footer Animation"/>
 </p>
